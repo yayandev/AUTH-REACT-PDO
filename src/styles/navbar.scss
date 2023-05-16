@@ -1,0 +1,21 @@
+.navbar{
+    padding: 1rem;
+    width: 100%;
+    background-color: rgb(39, 38, 38);
+    box-shadow: -3px -3px 4px white,3px 3px 7px wheat;
+    .nav-items{
+        display: flex;
+        flex-direction: row;
+       align-items: center;
+       list-style: none;
+       .nav-item{
+        padding: 1rem;
+        .nav-link{
+            text-transform: capitalize;
+            text-decoration: none;
+            color: wheat;
+            font-weight: 700;
+        }
+       }
+    }
+}

@@ -1,0 +1,27 @@
+.login{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .col-login{
+        padding: 1rem;
+        width:100%;
+        input{
+            padding: 1rem;
+            width:100%;
+            border-radius: 5px;
+        }
+        button{
+            font-weight: 700;
+            width:100%;
+            padding: 1rem;
+            border-radius: 5px;
+            color: white;
+            background-color:#4D96FF;
+            &:hover{
+                background-color:#73A9AD;
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+.auth
+{
+    padding:1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height:100vh;
+    .auth-logo{
+       width:100%;
+       padding-top: 2rem;
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       align-items: center;
+    }
+    .content{
+        padding: 1rem;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
+@media only screen and ( min-width: 1000px ){
+    .auth{
+        width: 75vw;
+    }
+}
