@@ -4,7 +4,7 @@
    
    
 ## DEMO PROJECT
-   <a href="https://react-app-pdo.web.app">react-app-pdo.web.app</a>
+   <a href="https://react-app-pdo.web.app">https://react-app-pdo.web.app</a>
     
 ## PREVIEW
 <a href="# Ini hanyalah project sederhana yang menerapkan instegrasi reactjs dengan bantuan axiosjs (nope use fetchjs 😉) penerapan ASYNC request  ,resgister akun dan verifikasi akun bro 😗 (simpel).">
