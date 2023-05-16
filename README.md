@@ -16,7 +16,7 @@
 
 
 ```txt
-    Ini hanyalah project sederhana yang menerapkan instegrasi reactjs dengan bantuan axiosjs (nope use fetchjs 😉)
+    Ini hanyalah project sederhana yang menerapkan instegrasi reactjs dan php PDO dengan bantuan axiosjs (nope use fetchjs 😉)
     penerapan ASYNC request  ,resgister akun dan verifikasi akun bro 😗 (simpel).
 
 
